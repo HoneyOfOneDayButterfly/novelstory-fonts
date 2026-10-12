@@ -1,0 +1,4 @@
+글꼴: 나눔손글씨 펜 (Nanum Pen Script)
+배포처: https://github.com/google/fonts/tree/main/ofl/nanumpenscript
+
+Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.

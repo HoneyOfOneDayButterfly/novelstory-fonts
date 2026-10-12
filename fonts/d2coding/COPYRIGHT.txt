@@ -1,0 +1,4 @@
+글꼴: D2Coding
+배포처: https://github.com/naver/d2-coding-font
+
+Copyright (c) 2015-2016 NAVER Corporation. All rights reserved. Font designed by FONTRIX Inc.

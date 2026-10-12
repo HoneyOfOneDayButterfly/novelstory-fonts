@@ -1,0 +1,4 @@
+글꼴: IBM Plex Sans KR
+배포처: https://github.com/google/fonts/tree/main/ofl/ibmplexsanskr
+
+Copyright 2018 IBM Corp. All rights reserved.

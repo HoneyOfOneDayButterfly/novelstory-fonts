@@ -1,0 +1,6 @@
+* text=auto eol=lf
+# 원본 글꼴·라이선스 파일은 바이트 그대로 둔다(SOURCES.md 의 SHA-256 과 같게)
+fonts/** -text
+*.ttf binary
+*.otf binary
+*.zip binary
