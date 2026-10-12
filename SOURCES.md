@@ -8,7 +8,7 @@
 
 ## 마루 부리 — `fonts/maru-buri/`
 
-- 원본 배포처: <https://hangeul.naver.com/font>
+- 받은 곳: <https://hangeul.naver.com/font>
 - 원본 라이선스: <https://help.naver.com/service/30016/contents/18088?lang=ko> — 네이버 고객센터 「나눔글꼴 라이선스」(배포 묶음에는 라이선스 파일이 없다)
 - 저장소 안: [`fonts/maru-buri/OFL.txt`](fonts/maru-buri/OFL.txt) (위 안내의 저작권·예약 글꼴 이름 줄 + OFL 1.1 전문, SHA-256 `d4fa55b7dc120d4527b4781b0cee9d04cc9c53eb00aa2781f866f8cdb39fe8f4`)
 - 저작권 표기: [`fonts/maru-buri/COPYRIGHT.txt`](fonts/maru-buri/COPYRIGHT.txt)
@@ -20,7 +20,7 @@
 
 ## 나눔명조 — `fonts/nanum-myeongjo/`
 
-- 원본 배포처: <https://github.com/google/fonts/tree/main/ofl/nanummyeongjo>
+- 받은 곳: <https://github.com/google/fonts/tree/main/ofl/nanummyeongjo>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanummyeongjo/OFL.txt>
 - 저장소 안: [`fonts/nanum-myeongjo/OFL.txt`](fonts/nanum-myeongjo/OFL.txt) (원본 그대로, SHA-256 `8eb1c1019fe7fe6d0b6e7d7bbbba1d9cbdd969d8c5f26455708f6cfb8a77284c`)
 - 저작권 표기: [`fonts/nanum-myeongjo/COPYRIGHT.txt`](fonts/nanum-myeongjo/COPYRIGHT.txt)
@@ -32,7 +32,7 @@
 
 ## 고운바탕 — `fonts/gowun-batang/`
 
-- 원본 배포처: <https://github.com/google/fonts/tree/main/ofl/gowunbatang>
+- 받은 곳: <https://github.com/google/fonts/tree/main/ofl/gowunbatang>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/gowunbatang/OFL.txt>
 - 저장소 안: [`fonts/gowun-batang/OFL.txt`](fonts/gowun-batang/OFL.txt) (원본 그대로, SHA-256 `49a57cc769fa9affd6eefb9070a61e3d3f6b757c97cafb15848bc6d1c81acc78`)
 - 저작권 표기: [`fonts/gowun-batang/COPYRIGHT.txt`](fonts/gowun-batang/COPYRIGHT.txt)
@@ -44,7 +44,7 @@
 
 ## 나눔고딕 — `fonts/nanum-gothic/`
 
-- 원본 배포처: <https://github.com/google/fonts/tree/main/ofl/nanumgothic>
+- 받은 곳: <https://github.com/google/fonts/tree/main/ofl/nanumgothic>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanumgothic/OFL.txt>
 - 저장소 안: [`fonts/nanum-gothic/OFL.txt`](fonts/nanum-gothic/OFL.txt) (원본 그대로, SHA-256 `eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f`)
 - 저작권 표기: [`fonts/nanum-gothic/COPYRIGHT.txt`](fonts/nanum-gothic/COPYRIGHT.txt)
@@ -56,7 +56,7 @@
 
 ## 나눔바른고딕 — `fonts/nanum-barun-gothic/`
 
-- 원본 배포처: <https://hangeul.naver.com/font>
+- 받은 곳: <https://hangeul.naver.com/font>
 - 원본 라이선스: <https://help.naver.com/service/30016/contents/18088?lang=ko> — 네이버 고객센터 「나눔글꼴 라이선스」(배포 묶음에는 라이선스 파일이 없다)
 - 저장소 안: [`fonts/nanum-barun-gothic/OFL.txt`](fonts/nanum-barun-gothic/OFL.txt) (위 안내의 저작권·예약 글꼴 이름 줄 + OFL 1.1 전문, SHA-256 `d4fa55b7dc120d4527b4781b0cee9d04cc9c53eb00aa2781f866f8cdb39fe8f4`)
 - 저작권 표기: [`fonts/nanum-barun-gothic/COPYRIGHT.txt`](fonts/nanum-barun-gothic/COPYRIGHT.txt)
@@ -64,11 +64,11 @@
 | 파일 | 굵기 | 판 | 크기(바이트) | SHA-256 | 원본 주소 |
 |---|---|---|---|---|---|
 | `NanumBarunGothicWeb.ttf` | 400 | Version 1.000 2013 initial release | 4,186,060 | `9b872773134e2e4d8c0b17021266786576db06c843ede0d0b523b214a450756c` | <https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWeb.ttf> |
-| `NanumBarunGothicWebBold.ttf` | 700 | Version 1.000 2013 initial release | 4,415,956 | `39bba4cd9bd2986143825c8654abbb62443914ab33b346c0c929a916f5d98bf2` | <https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWebBold.ttf> |
+| `NanumBarunGothicWebBold.ttf` | 700 (파일 표기 600) | Version 1.000 2013 initial release | 4,415,956 | `39bba4cd9bd2986143825c8654abbb62443914ab33b346c0c929a916f5d98bf2` | <https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWebBold.ttf> |
 
 ## 고운돋움 — `fonts/gowun-dodum/`
 
-- 원본 배포처: <https://github.com/google/fonts/tree/main/ofl/gowundodum>
+- 받은 곳: <https://github.com/google/fonts/tree/main/ofl/gowundodum>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/gowundodum/OFL.txt>
 - 저장소 안: [`fonts/gowun-dodum/OFL.txt`](fonts/gowun-dodum/OFL.txt) (원본 그대로, SHA-256 `a7c73f9521cd646bbdfb6684c99a62311bbd7bce11898dc11ef0b3c69eda1aca`)
 - 저작권 표기: [`fonts/gowun-dodum/COPYRIGHT.txt`](fonts/gowun-dodum/COPYRIGHT.txt)
@@ -79,7 +79,7 @@
 
 ## IBM Plex Sans KR — `fonts/ibm-plex-sans-kr/`
 
-- 원본 배포처: <https://github.com/google/fonts/tree/main/ofl/ibmplexsanskr>
+- 받은 곳: <https://github.com/google/fonts/tree/main/ofl/ibmplexsanskr>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/ibmplexsanskr/OFL.txt>
 - 저장소 안: [`fonts/ibm-plex-sans-kr/OFL.txt`](fonts/ibm-plex-sans-kr/OFL.txt) (원본 그대로, SHA-256 `7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da`)
 - 저작권 표기: [`fonts/ibm-plex-sans-kr/COPYRIGHT.txt`](fonts/ibm-plex-sans-kr/COPYRIGHT.txt)
@@ -91,7 +91,7 @@
 
 ## SUIT — `fonts/suit/`
 
-- 원본 배포처: <https://github.com/sun-typeface/SUIT>
+- 받은 곳: <https://github.com/sun-typeface/SUIT>
 - 원본 라이선스: <https://raw.githubusercontent.com/sun-typeface/SUIT/55118d981336d8fce005eb62888c12c0568ef7b0/LICENSE>
 - 저장소 안: [`fonts/suit/OFL.txt`](fonts/suit/OFL.txt) (원본 그대로, SHA-256 `30d101ee3c35ef629d622d933d261a27b2f60223e0a3b0f36791e569c2b9daa9`)
 - 저작권 표기: [`fonts/suit/COPYRIGHT.txt`](fonts/suit/COPYRIGHT.txt)
@@ -103,7 +103,7 @@
 
 ## D2Coding — `fonts/d2coding/`
 
-- 원본 배포처: <https://github.com/naver/d2-coding-font>
+- 받은 곳: <https://github.com/naver/d2-coding-font>
 - 원본 라이선스: <https://raw.githubusercontent.com/naver/d2-coding-font/9d6f0559691ebe670a23fbf7b72a8dc42362f1fb/OFL.txt>
 - 저장소 안: [`fonts/d2coding/OFL.txt`](fonts/d2coding/OFL.txt) (원본 그대로, SHA-256 `1807e8dec4d65f474cbf9be39f5e2254ecb81702babc320749e272ea66ffcc69`)
 - 저작권 표기: [`fonts/d2coding/COPYRIGHT.txt`](fonts/d2coding/COPYRIGHT.txt)
@@ -115,7 +115,7 @@
 
 ## 나눔손글씨 붓 — `fonts/nanum-brush-script/`
 
-- 원본 배포처: <https://fonts.google.com/specimen/Nanum+Brush+Script>
+- 받은 곳: <https://fonts.google.com/specimen/Nanum+Brush+Script>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanumbrushscript/OFL.txt>
 - 저장소 안: [`fonts/nanum-brush-script/OFL.txt`](fonts/nanum-brush-script/OFL.txt) (원본 그대로, SHA-256 `eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f`)
 - 저작권 표기: [`fonts/nanum-brush-script/COPYRIGHT.txt`](fonts/nanum-brush-script/COPYRIGHT.txt)
@@ -126,7 +126,7 @@
 
 ## 나눔손글씨 펜 — `fonts/nanum-pen-script/`
 
-- 원본 배포처: <https://fonts.google.com/specimen/Nanum+Pen+Script>
+- 받은 곳: <https://fonts.google.com/specimen/Nanum+Pen+Script>
 - 원본 라이선스: <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanumpenscript/OFL.txt>
 - 저장소 안: [`fonts/nanum-pen-script/OFL.txt`](fonts/nanum-pen-script/OFL.txt) (원본 그대로, SHA-256 `eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f`)
 - 저작권 표기: [`fonts/nanum-pen-script/COPYRIGHT.txt`](fonts/nanum-pen-script/COPYRIGHT.txt)

@@ -16,7 +16,7 @@
 
 ## 들어 있는 글꼴 (11종, 파일 19개, 77.4 MiB)
 
-| 글꼴 | 종류 | 폴더 | 파일 | 저작권자 | 원본 배포처 | 원본 라이선스 |
+| 글꼴 | 종류 | 폴더 | 파일 | 저작권자 | 받은 곳 | 원본 라이선스 |
 |---|---|---|---|---|---|---|
 | 마루 부리 | 명조 | [`fonts/maru-buri/`](fonts/maru-buri/) | `MaruBuri-Regular.ttf`<br>`MaruBuri-Bold.ttf` | NAVER Corp. · NAVER Cultural Foundation | <https://hangeul.naver.com/font> | <https://help.naver.com/service/30016/contents/18088?lang=ko> |
 | 나눔명조 | 명조 | [`fonts/nanum-myeongjo/`](fonts/nanum-myeongjo/) | `NanumMyeongjo-Regular.ttf`<br>`NanumMyeongjo-Bold.ttf` | NAVER Corp. (옛 NHN Corp.) | <https://github.com/google/fonts/tree/main/ofl/nanummyeongjo> | <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanummyeongjo/OFL.txt> |
@@ -30,8 +30,12 @@
 | 나눔손글씨 붓 | 붓글씨 | [`fonts/nanum-brush-script/`](fonts/nanum-brush-script/) | `NanumBrushScript-Regular.ttf` | NAVER Corp. (옛 NHN Corp.) | <https://fonts.google.com/specimen/Nanum+Brush+Script> | <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanumbrushscript/OFL.txt> |
 | 나눔손글씨 펜 | 손글씨 | [`fonts/nanum-pen-script/`](fonts/nanum-pen-script/) | `NanumPenScript-Regular.ttf` | NAVER Corp. (옛 NHN Corp.) | <https://fonts.google.com/specimen/Nanum+Pen+Script> | <https://raw.githubusercontent.com/google/fonts/23e54b51ddffbc7713c583748e3bd86f62b1fa4a/ofl/nanumpenscript/OFL.txt> |
 
-- 굵기는 보통(400)과 굵게(700)를 담았습니다. 한 굵기만 있는 글꼴은 그 하나입니다.
-- 원본 라이선스 열은 각 저작권자가 라이선스를 밝힌 원래 자리입니다. 같은 내용이 각 폴더의 `OFL.txt` 에 있습니다.
+- 굵기는 보통(400)과 굵게(700)를 담았습니다. 한 굵기만 있는 글꼴은 그 하나입니다. 나눔바른고딕의 굵게(`NanumBarunGothicWebBold.ttf`)는
+  파일 안의 굵기 값이 600 입니다.
+- 받은 곳은 이 묶음의 파일을 받아 온 공식 배포처입니다. 나눔명조·나눔고딕·고운바탕·고운돋움·IBM Plex Sans KR·나눔손글씨는 저작권자가
+  Google Fonts 에 올린 공식 사본(google/fonts 저장소)에서, 마루 부리·나눔바른고딕은 네이버 「한글한글 아름답게」에서, SUIT·D2Coding 은
+  제작자의 저장소에서 받았습니다. 원본 라이선스 열은 받은 곳에 함께 있는 라이선스(네이버 두 글꼴은 네이버의 라이선스 안내)이고,
+  같은 내용이 각 폴더의 `OFL.txt` 에 있습니다.
 - 마루 부리·나눔바른고딕은 네이버가 배포하는 묶음에 라이선스 파일이 들어 있지 않습니다. 네이버 고객센터의
   「[나눔글꼴 라이선스](https://help.naver.com/service/30016/contents/18088?lang=ko)」가 두 글꼴을 포함한 네이버 글꼴을 SIL OFL 1.1 로 밝히고 있습니다.
   각 폴더의 `OFL.txt` 는 그 안내의 저작권·예약 글꼴 이름(Reserved Font Name) 줄과 OFL 1.1 전문입니다.
